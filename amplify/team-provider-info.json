@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-t9code-dev-73609-authRole",
+            "UnauthRoleArn": "arn:aws:iam::559058445469:role/amplify-t9code-dev-73609-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::559058445469:role/amplify-t9code-dev-73609-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "amplify-t9code-dev-73609-deployment",
+            "UnauthRoleName": "amplify-t9code-dev-73609-unauthRole",
+            "StackName": "amplify-t9code-dev-73609",
+            "StackId": "arn:aws:cloudformation:us-west-2:559058445469:stack/amplify-t9code-dev-73609/3a1feec0-b23a-11ea-bd64-0a95a0468cc2",
+            "AmplifyAppId": "d3rtzv8afn00id"
+        }
+    }
+}
