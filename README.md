@@ -14,4 +14,6 @@ The world may have quite enough T9 text encoding solutions, but none are making 
 
 "Worldy goods mean little to me. But the power that comes with riches is inticing to this limiting physical form." - Elmo, most likely.
 
-We have aquisition goals for supremely successful businesses like [https://memeflashcards.com]("Meme Flashcards"). But the inherent evil that is internet ads isn't out of the question.
+We have aquisition goals for supremely successful businesses like [Meme Flashcards](https://memeflashcards.com). In fact, they're so successful the webiste is probably down because of so much traffic. It's an exclusive service. 
+
+But the inherent evil that is internet ads isn't out of the question.
