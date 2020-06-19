@@ -10,6 +10,14 @@
             "StackName": "amplify-t9code-dev-73609",
             "StackId": "arn:aws:cloudformation:us-west-2:559058445469:stack/amplify-t9code-dev-73609/3a1feec0-b23a-11ea-bd64-0a95a0468cc2",
             "AmplifyAppId": "d3rtzv8afn00id"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d3rtzv8afn00id",
+                    "type": "cicd"
+                }
+            }
         }
     }
 }
