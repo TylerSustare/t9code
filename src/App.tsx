@@ -5,6 +5,7 @@ import purple from '@material-ui/core/colors/purple';
 import green from '@material-ui/core/colors/green';
 import { Paper, Box, Card, Button } from '@material-ui/core';
 import { red, blue } from '@material-ui/core/colors';
+import { UnButton } from './Button';
 
 function App() {
   const [isDarkMode, setIsDarkMode] = useState(true);
@@ -36,6 +37,9 @@ function App() {
           <Button variant="contained" color="primary" onClick={() => setIsDarkMode(!isDarkMode)}>
             theme
           </Button>
+        </Box>
+        <Box display="flex" alignItems="center" justifyContent="center">
+          <UnButton />
         </Box>
       </Box>
     </ThemeProvider>
